@@ -6,7 +6,6 @@
 
 [IUPUI University Library Center for Digital Scholarship profile](http://ulib.iupui.edu/digitalscholarship/people/heathercoates)
 
----
 
 ## Education
 
