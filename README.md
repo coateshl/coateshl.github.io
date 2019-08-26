@@ -4,8 +4,9 @@
 
 **(317) 278-7125  |  hcoates at iupui dot edu**
 
-http://ulib.iupui.edu/digitalscholarship/people/heathercoates
+[IUPUI University Library Center for Digital Scholarship profile](http://ulib.iupui.edu/digitalscholarship/people/heathercoates)
 
+---
 
 ## Education
 
