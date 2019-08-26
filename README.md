@@ -2,10 +2,13 @@
 
 **755 West Michigan Street, Indianapolis, IN 46202**
 
-**(317) 278-7125  |  hcoates@iupui.edu**
+**(317) 278-7125  |  hcoates at iupui dot edu**
+
+http://ulib.iupui.edu/digitalscholarship/people/heathercoates
 
 
 ## Education
+
 **MLS, 08/2010**
 
 School of Library & Information Science, Indiana University – Indianapolis, IN 
