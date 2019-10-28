@@ -105,7 +105,7 @@ Coordinated the research, outreach, and professional training activities of a di
 
 ### Scholarly Publications – Refereed
 
-Foster, E. D. & **Coates, H. L.** (2019). Raising the Visibility of Protected Data: A Pilot Data Catalog Project. In D. Haugh & D. Chase (Eds.), Open Praxis, Open Access: Digital Scholarship in Action. Chicago, IL: ALA Editions.
+Foster, E. D. & **Coates, H. L.** (2019). Raising the Visibility of Protected Data: A Pilot Data Catalog Project. In D. Haugh & D. Chase (Eds.), *Open Praxis, Open Access: Digital Scholarship in Action*. Chicago, IL: ALA Editions.
 
 **Coates, H. L.**, Clement, R., Carlson, J., Henderson, M., Johnston, L., Shorish, Y. (2018). How are we measuring up? Evaluating research data services in academic libraries. *Journal of Librarianship & Scholarly Communication*, 6(1). https://doi.org/10.7710/2162-3309.2226 
 
