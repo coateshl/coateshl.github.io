@@ -105,6 +105,10 @@ Coordinated the research, outreach, and professional training activities of a di
 
 ### Scholarly Publications – Refereed
 
+Castillo, D., **Coates, H. L.**, Narlock, M. (In press). Curating Qualitative Data: Data Curation Primer. Data Curation Network. 
+
+Champieux, R. & **Coates, H. L.** (In press). Metrics for evaluating the impact of data sets. In A. Berez-Kroeker, B. McDonnell, E. Koller, and L. Collister (Eds.), *Open Handbook of Linguistic Data Management*. MIT Press Open.
+
 Foster, E. D. & **Coates, H. L.** (2019). Raising the Visibility of Protected Data: A Pilot Data Catalog Project. In D. Haugh & D. Chase (Eds.), *Open Praxis, Open Access: Digital Scholarship in Action*. Chicago, IL: ALA Editions.
 
 **Coates, H. L.**, Clement, R., Carlson, J., Henderson, M., Johnston, L., Shorish, Y. (2018). How are we measuring up? Evaluating research data services in academic libraries. *Journal of Librarianship & Scholarly Communication*, 6(1). https://doi.org/10.7710/2162-3309.2226 
@@ -217,7 +221,7 @@ Johnson, S. A., Lutgring, J., Burt, R., Murphy, R. R., Theiner-Schumacher, P., *
 
 ## Digital Projects
 
-Champieux, R., **Coates, H. L.**, Konkiel, S. (2016-2019). Metrics Toolkit. [Available at http://www.metrics-toolkit.org] 
+Champieux, R., **Coates, H. L.**, Konkiel, S. (2016-present). Metrics Toolkit. [Available at http://www.metrics-toolkit.org] 
 
 Love Data Week Planning Committee (2019). Love Data Week event website. [Available at http://lovedataweek.org] 
 
@@ -280,6 +284,7 @@ Institute of Museum and Library Sciences Sparks! Ignition Grant
 
 ## Professional Development Courses & Training
 
+2019	Data Curation Workshop, Data Curation Network
 2017	Library Carpentry Instructor Training, The Carpentries
 
 2016 – 2017	The BD2K Guide to the Fundamentals of Data Science Series (weekly seminar), BD2K Training Coordinating Center, the NIH Office of the Associate Director for Data Science, & BD2K Centers Coordination Center (BD2KCCC)
@@ -309,7 +314,7 @@ and Research Libraries
 
 2019-2020	Member, Research Data Access & Preservation Association (RDAP) – Publishing Committee
 
-2019	Member, Unizin - Research Approvals for Data Taskforce
+2019-2020	Member, Unizin - Research Approvals for Data Taskforce
 
 2018-2019	Member, Research Data Access & Preservation Association (RDAP) - Education and Resources Committee
 
@@ -343,6 +348,7 @@ and Research Libraries
 
 ### University
 
+2020-present	Permanent Member (appointed), IU University Data Management Council
 
 2018-present	Member, Indiana University - EU General Data Protection Regulation (GDPR) Working Group
 
@@ -352,7 +358,7 @@ and Research Libraries
 
 2018-2019	Chair, University Library Faculty Organization - Primary Peer Review Committee
 
-2017-2020	Member, Indiana University - University Data Management Council
+2017-2020	Rotating Member (appointed), IU University Data Management Council
 
 2017-2018	Vice Chair/Chair Elect, IUPUI Library Faculty
 
