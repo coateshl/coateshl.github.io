@@ -104,7 +104,7 @@ Coordinated the research, outreach, and professional training activities of a di
 
 ### Scholarly Publications – Refereed
 
-Castillo, D., **Coates, H. L.**, Narlock, M. (In press). Curating Qualitative Data: Data Curation Primer. Data Curation Network. 
+Castillo, D., **Coates, H. L.**, Narlock, M. (Under review). Curating Qualitative Data: Data Curation Primer. Data Curation Network. 
 
 Champieux, R. & **Coates, H. L.** (In press). Metrics for evaluating the impact of data sets. In A. Berez-Kroeker, B. McDonnell, E. Koller, and L. Collister (Eds.), *Open Handbook of Linguistic Data Management*. MIT Press Open.
 
