@@ -27,15 +27,12 @@ School of Science, Purdue University – West Lafayette, IN
 
 ## Experience
 
-**5/2018 – 8/2019**
+**7/2017 – present**
 
-**Interim Co-Director of the Center for Digital Scholarship**
+**Associate Librarian, IUPUI University Library, Center for Digital Scholarship**
 
-With my fellow Co-Director, I coordinate the Center’s work with partners inside and outside of University Library. We collaborate to represent the library’s digital scholarship programs to stakeholders including the IUPUI and local communities. I directly supervise four librarians based in the Center, oversee the operations of the library’s institutional repository, journal publishing program, support for digital humanities, and maintenance of the library website and overall web presence. 
--	Onboard the User Experience & Project Management Librarian.
--	Examine the allocation of staff time to various services and projects to identify additional support needed given increasing demand for some services and personnel changes. 
--	Guide Center personnel through library-wide strategic planning under the leadership of a new Dean.
-
+Digital Scholarship & Data Management Librarian
+My role as the Digital Scholarship and Data Management Librarian at University Library is to provide research support in the form of research data services and research metrics services to IUPUI faculty, staff, and students. I meet researchers’ needs related to research data management, archiving, sharing requirements, discovery, and reproducibility by providing consultations, workshops, and open working sessions. I manage the institutional data repository (IUPUI DataWorks) as a platform that enables sustainable data sharing, discovery, reuse, and citation. I contribute to the mission of the Center for Digital Scholarship by engaging with faculty, staff, and students about dissemination of scholarly products including publications, data, code, and more. Finally, I collaborate with faculty and administrators to support the informed use of research impact metrics and other evidence in the tenure and promotion process. 
 
 **6/2017 - present**
 
@@ -48,12 +45,14 @@ I am responsible for developing and maintaining high-level guidance for data acc
 -	Collaborate with the UISO, UIPO, General Counsel, and UITS to address emerging areas such as the EU General Data Protection Regulation (GDPR), genomic data, learning analytics, etc.
 
 
-**7/2017 – present**
+**5/2018 – 3/2020**
 
-**Associate Librarian, IUPUI University Library, Center for Digital Scholarship**
+**Interim Co-Director of the Center for Digital Scholarship**
 
-Digital Scholarship & Data Management Librarian
-My role as the Digital Scholarship and Data Management Librarian at University Library is to provide research support in the form of research data services and research metrics services to IUPUI faculty, staff, and students. I meet researchers’ needs related to research data management, archiving, sharing requirements, discovery, and reproducibility by providing consultations, workshops, and open working sessions. I manage the institutional data repository (IUPUI DataWorks) as a platform that enables sustainable data sharing, discovery, reuse, and citation. I contribute to the mission of the Center for Digital Scholarship by engaging with faculty, staff, and students about dissemination of scholarly products including publications, data, code, and more. Finally, I collaborate with faculty and administrators to support the informed use of research impact metrics and other evidence in the tenure and promotion process. 
+With my fellow Co-Director, I coordinated the Center’s work with partners inside and outside of University Library. We collaborated to represent the library’s digital scholarship programs to stakeholders including the IUPUI and local communities. I directly supervised four librarians based in the Center, oversaw the operations of the library’s institutional repository, journal publishing program, support for digital humanities, and maintenance of the library website and overall web presence. 
+-	Onboard the User Experience & Project Management Librarian.
+-	Examine the allocation of staff time to various services and projects to identify additional support needed given increasing demand for some services and personnel changes. 
+-	Guide Center personnel through library-wide strategic planning under the leadership of a new Dean.
 
 
 **7/2012 – 6/2016**
