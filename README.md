@@ -108,7 +108,9 @@ Castillo, D., **Coates, H. L.**, Narlock, M. (Under review). Curating Qualitativ
 
 Champieux, R. & **Coates, H. L.** (In press). Metrics for evaluating the impact of data sets. In A. Berez-Kroeker, B. McDonnell, E. Koller, and L. Collister (Eds.), *Open Handbook of Linguistic Data Management*. MIT Press Open.
 
-Foster, E. D. & **Coates, H. L.** (2019). Raising the Visibility of Protected Data: A Pilot Data Catalog Project. In D. Haugh & D. Chase (Eds.), *Open Praxis, Open Access: Digital Scholarship in Action*. Chicago, IL: ALA Editions.
+Briney, K. A., **Coates, H.**, Goben, A. (2020) Foundational Practices of Research Data Management. *Research Ideas and Outcomes*, 6: e56508. https://doi.org/10.3897/rio.6.e56508
+
+Foster, E. D. & **Coates, H. L.** (2020). Raising the Visibility of Protected Data: A Pilot Data Catalog Project. In D. Haugh & D. Chase (Eds.), *Open Praxis, Open Access: Digital Scholarship in Action*. Chicago, IL: ALA Editions.
 
 **Coates, H. L.**, Clement, R., Carlson, J., Henderson, M., Johnston, L., Shorish, Y. (2018). How are we measuring up? Evaluating research data services in academic libraries. *Journal of Librarianship & Scholarly Communication*, 6(1). https://doi.org/10.7710/2162-3309.2226 
 
