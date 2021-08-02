@@ -4,7 +4,7 @@
 
 **(317) 278-7125  |  hcoates at iupui dot edu**
 
-[IUPUI University Library Center for Digital Scholarship profile](http://ulib.iupui.edu/digitalscholarship/people/heathercoates)
+[IUPUI University Library Center for Digital Scholarship profile](https://ulib.iupui.edu/about/people/hcoates)
 
 
 ## Education
@@ -32,17 +32,22 @@ School of Science, Purdue University – West Lafayette, IN
 **Associate Librarian, IUPUI University Library, Center for Digital Scholarship**
 
 Digital Scholarship & Data Management Librarian
-My role as the Digital Scholarship and Data Management Librarian at University Library is to provide research support in the form of research data services and research metrics services to IUPUI faculty, staff, and students. I meet researchers’ needs related to research data management, archiving, sharing requirements, discovery, and reproducibility by providing consultations, workshops, and open working sessions. I manage the institutional data repository (IUPUI DataWorks) as a platform that enables sustainable data sharing, discovery, reuse, and citation. I contribute to the mission of the Center for Digital Scholarship by engaging with faculty, staff, and students about dissemination of scholarly products including publications, data, code, and more. Finally, I collaborate with faculty and administrators to support the informed use of research impact metrics and other evidence in the tenure and promotion process. 
+My role as the Digital Scholarship and Data Management Librarian at University Library is to provide research support to IUPUI faculty, staff, and students, including support for open research practices. 
+ - Meet researchers’ needs related to research data management, archiving, sharing requirements, discovery, and reproducibility by providing consultations, workshops, and maintaining strong working relationships with other research support units. 
+ - Manage the institutional data repository (IUPUI DataWorks) as a platform for enabling sustainable data sharing, discovery, reuse, and citation. IUPUI DataWorks publishes both open data and metadata about controlled access datasets. 
+ - Advocate for and support the responsible use of research impact metrics and qualitative evidence in the tenure and promotion process, coordinating the campus-wide Research Metrics Services at IUPUI team. 
+ - Contribute to the broader mission of the Center for Digital Scholarship by engaging with faculty, staff, and students about dissemination of scholarly products including publications, data, code, and more.  
 
 **6/2017 - present**
 
 **University Data Steward for Research Data**
 
-I am responsible for developing and maintaining high-level guidance for data access, management and handling, from the creation of the data through its destruction or long-term/permanent retention, through the adoption of policies, standards, guidelines, and procedures or other appropriate documentation or tools for research data. Data Stewards are charged with ensuring that institutional data policies, standards, guidelines, procedures, or other guidance provided by Indiana University leadership are appropriately implemented and with providing strategic input to Indiana University leadership on matters relating to data governance. 
--	Contribute to security reviews of third-party platforms and make determinations regarding use of such systems for research purposes.
--	Collaborate with other data stewards and UISO to classify data used for research purposes and guide IU researchers in managing data appropriately.
+As a Data Steward, I am responsible for developing and maintaining high-level guidance for data access, management and handling, from the creation of the data through its destruction or long-term/permanent retention, through the adoption of policies, standards, guidelines, and procedures or other appropriate documentation or tools for the research data domain. Data Stewards are charged with ensuring that institutional data policies, standards, guidelines, procedures, or other guidance provided by Indiana University leadership are appropriately implemented and with providing strategic input to Indiana University leadership on matters relating to data governance. 
+- Consult with researchers to provide guidance on research data management.
+- Collaborate with other data stewards and UISO to classify data used for research purposes and guide IU researchers in managing data appropriately.
 -	Collaborate with teams and units to develop guiding principles and processes for using institutional data for research purposes.
 -	Collaborate with the UISO, UIPO, General Counsel, and UITS to address emerging areas such as the EU General Data Protection Regulation (GDPR), genomic data, learning analytics, etc.
+-	Contribute to security reviews of third-party platforms and make determinations regarding use of such systems for research purposes.
 
 
 **5/2018 – 3/2020**
@@ -104,9 +109,7 @@ Coordinated the research, outreach, and professional training activities of a di
 
 ### Scholarly Publications – Refereed
 
-Castillo, D., **Coates, H. L.**, Narlock, M. (Under review). Curating Qualitative Data: Data Curation Primer. Data Curation Network. 
-
-Champieux, R. & **Coates, H. L.** (In press). Metrics for evaluating the impact of data sets. In A. Berez-Kroeker, B. McDonnell, E. Koller, and L. Collister (Eds.), *Open Handbook of Linguistic Data Management*. MIT Press Open.
+Champieux, R. & **Coates, H. L.** (In press). Metrics for evaluating the impact of data sets. In A. Berez-Kroeker, B. McDonnell, E. Koller, and L. Collister (Eds.), *The Open Handbook of Linguistic Data Management and Archiving*. MIT Press Open.
 
 Briney, K. A., **Coates, H.**, Goben, A. (2020) Foundational Practices of Research Data Management. *Research Ideas and Outcomes*, 6: e56508. https://doi.org/10.3897/rio.6.e56508
 
@@ -151,6 +154,8 @@ Chabot, L., Bivens-Tatum, W., **Coates, H. L.**, Kern, M. K., Leonard, M., Palaz
 ## Presentations
 
 ### Refereed Presentations
+
+Foster, E. D. & **Coates, H. L.** (2019). Building a community of practice: Situating data management in the transition to electronic lab notebooks. Poster presentation at the Research Data Access & Preservation (RDAP) Summit, Miami, FL. 
 
 **Coates, H. L.**. (2018). Upskilling the promotion and tenure process: Training administrators for responsible use of research impact metrics. Presentation at the Transforming Research conference, Providence, RI. Available at http://hdl.handle.net/1805/17449. 
 
@@ -199,6 +204,14 @@ Johnson, S. A., Lutgring, J., Burt, R., Murphy, R. R., Theiner-Schumacher, P., *
 
 ### Invited Talks
 
+**Coates, H. L.** (2021). FAIR Guiding Principles for (Meta)data: What’s all the fuss about? Invited presentation to the National Energy Research Scientific Computing Center (NERSC). 
+
+**Coates, H. L.** (2021). The NIH Policy for Data Management and Sharing: Opportunities for libraries. Invited mini-module speaker for the Research Data Management Librarian Academy. Available at https://learn.canvas.net/courses/2719 
+
+**Coates, H. L.** (2021). The NIH Policy for Data Management and Sharing. Invited panelist at the Research Data, Access, and Preservation (RDAP) Town Hall [virtual]. 
+
+**Coates, H. L.** (2020). Governance in the commons: Dealing with research data. Presentation to the Higher Education Data Governance (HEDGe) community. https://highereddatagovernance.org/
+
 **Coates, H. L.** (2019). Changing the culture of P&T through conversations about research metrics. Presentation to Altmetric [virtual]. 
 
 **Coates, H. L.** (2019). Evaluating the Impact of Community-Engaged Scholarship: Implications for Promotion & Tenure. Presentation at the Indiana Commission of Higher Education Faculty Leadership Conference. Indianapolis, IN.
@@ -221,6 +234,8 @@ Johnson, S. A., Lutgring, J., Burt, R., Murphy, R. R., Theiner-Schumacher, P., *
 
 
 ## Digital Projects
+
+Castillo, D., **Coates, H. L.**, Narlock, M. (Under review). Curating Qualitative Data: Data Curation Primer. Data Curation Network. 
 
 Champieux, R., **Coates, H. L.**, Konkiel, S. (2016-present). Metrics Toolkit. [Available at http://www.metrics-toolkit.org] 
 
@@ -266,26 +281,35 @@ Institute of Museum and Library Sciences Sparks! Ignition Grant
 
 ## Honors & Awards
 
-2017	Minde Browning Award, Central Indiana Community Foundation (CICF)
+2020	Minde Browning Award, Central Indiana Community Foundation (CICF) - $1000
 
-2017	ACRL Early-career Librarian Scholarship
+2017	Minde Browning Award, Central Indiana Community Foundation (CICF) - $1000
 
-2016	Minde Browning Award, Central Indiana Community Foundation (CICF)
+2017	ACRL Early-career Librarian Scholarship - $740
 
-2014	Minde Browning Award, Central Indiana Community Foundation (CICF)
+2016	Minde Browning Award, Central Indiana Community Foundation (CICF) - $1000
 
-2013 	Sewell Stipend to attend the Annual Public Health Association Meeting, Medical Library Association    
+2014	Minde Browning Award, Central Indiana Community Foundation (CICF) - $1000
 
-2012	ACRL Scholarship, Academic Libraries of Indiana
+2013 	Sewell Stipend to attend the Annual Public Health Association Meeting, Medical Library Association - $1300
 
-2012	e-Learning Scholarship, Association of College and Research Libraries
+2012	ACRL Scholarship, Academic Libraries of Indiana - $250
 
-2010	Midwest Chapter Medical Library Association Annual Conference Student Scholarship
+2010	Midwest Chapter Medical Library Association Annual Conference Student Scholarship - $500
 
 
 ## Professional Development Courses & Training
 
+2020	Introduction to Qualitative Research Methods (Library Juice Academy)
+
+2020	Bibliometrics and Scientometrics for Research Evaluation (CWTS, Leiden University)
+
+2020	FORCE11 Scholarly Communications Institute: W20 - Research Reproducibility in Practice & Theory
+
+2020	FORCE11 Scholarly Communications Institute: W24 – Working with Scholarly Literature in R
+
 2019	Data Curation Workshop, Data Curation Network
+
 2017	Library Carpentry Instructor Training, The Carpentries
 
 2016 – 2017	The BD2K Guide to the Fundamentals of Data Science Series (weekly seminar), BD2K Training Coordinating Center, the NIH Office of the Associate Director for Data Science, & BD2K Centers Coordination Center (BD2KCCC)
