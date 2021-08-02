@@ -337,7 +337,13 @@ and Research Libraries
 
 ### Professional
 
-2019-2020	Member, Research Data Access & Preservation Association (RDAP) – Publishing Committee
+2021-2022	Guest Editor, Journal of eScience Librarianship – RDAP 2021 Special Issue
+
+2020-2021	Guest Editor, Journal of eScience Librarianship – RDAP 2020 Special Issue
+
+2020	External reviewer for two librarian Promotion & Tenure/Continuing Appointment dossiers
+
+2019-2022	Member, Research Data Access & Preservation Association (RDAP) – Publishing Committee
 
 2019-2020	Member, Unizin - Research Approvals for Data Taskforce
 
@@ -372,6 +378,14 @@ and Research Libraries
 
 
 ### University
+
+2021-2022	Member (invited), IUPUI Mentoring Circles Advisory Committee
+
+2020-2022	Member (appointed), IUPUI Faculty Council, Faculty Affairs Committee
+
+2021-present	Member, IU, IU Health, VA, Eskenazi Joint Governance Group
+
+2021	Facilitator, University Library Anti-racist Book Club
 
 2020-present	Permanent Member (appointed), IU University Data Management Council
 
