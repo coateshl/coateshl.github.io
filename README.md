@@ -9,17 +9,17 @@ hcoates at iupui dot edu
 
 ## Education
 
-**MLS, 08/2010**
+**MLS**
 
 School of Library & Information Science, Indiana University – Indianapolis, IN 
 
 
-**MS, Health Informatics, 08/2010**
+**MS, Health Informatics**
 
 School of Informatics, Indiana University – Indianapolis, IN
 
 
-**BS, Neurobiology, 08/1999**
+**BS, Neurobiology**
 
 School of Science, Purdue University – West Lafayette, IN
 
