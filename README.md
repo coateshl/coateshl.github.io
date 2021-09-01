@@ -1,8 +1,8 @@
 # Heather Coates
 
-**755 West Michigan Street, Indianapolis, IN 46202**
+755 West Michigan Street, Indianapolis, IN 46202
 
-**(317) 278-7125  |  hcoates at iupui dot edu**
+(317) 278-7125  |  hcoates at iupui dot edu
 
 [IUPUI University Library Center for Digital Scholarship profile](https://ulib.iupui.edu/about/people/hcoates)
 
