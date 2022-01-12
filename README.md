@@ -109,7 +109,7 @@ Coordinated the research, outreach, and professional training activities of a di
 
 ### Scholarly Publications – Refereed
 
-Champieux, R. & **Coates, H. L.** (In press). Metrics for evaluating the impact of data sets. In A. Berez-Kroeker, B. McDonnell, E. Koller, and L. Collister (Eds.), *The Open Handbook of Linguistic Data Management and Archiving*. MIT Press Open.
+Champieux, R. & **Coates, H. L.** (2022). Metrics for evaluating the impact of data sets. In A. Berez-Kroeker, B. McDonnell, E. Koller, and L. Collister (Eds.), *The Open Handbook of Linguistic Data Management and Archiving*. MIT Press Direct. https://doi.org/10.7551/mitpress/12200.003.0016
 
 Briney, K. A., **Coates, H.**, Goben, A. (2020) Foundational Practices of Research Data Management. *Research Ideas and Outcomes*, 6: e56508. https://doi.org/10.3897/rio.6.e56508
 
@@ -154,6 +154,8 @@ Chabot, L., Bivens-Tatum, W., **Coates, H. L.**, Kern, M. K., Leonard, M., Palaz
 ## Presentations
 
 ### Refereed Presentations
+
+Goben, A., **Coates, H.**, Briney, K. (2021). Other duties as assigned: Data governance. Workshop at the Midwest Data Librarian Symposium [virtual].
 
 Foster, E. D. & **Coates, H. L.** (2019). Building a community of practice: Situating data management in the transition to electronic lab notebooks. Poster presentation at the Research Data Access & Preservation (RDAP) Summit, Miami, FL. 
 
@@ -208,9 +210,13 @@ Johnson, S. A., Lutgring, J., Burt, R., Murphy, R. R., Theiner-Schumacher, P., *
 
 **Coates, H. L.** (2021). The NIH Policy for Data Management and Sharing: Opportunities for libraries. Invited mini-module speaker for the Research Data Management Librarian Academy. Available at https://learn.canvas.net/courses/2719 
 
-**Coates, H. L.** (2021). The NIH Policy for Data Management and Sharing. Invited panelist at the Research Data, Access, and Preservation (RDAP) Town Hall [virtual]. 
+Castillo, D., **Coates, H.**, Narlock, M. (2021). Curating Qualitative Data Primer. Data Curation Network: All Hands Meeting [virtual].
+
+**Coates, H. L.** (2021). The NIH Policy for Data Management and Sharing. Invited panelist at the Research Data, Access, and Preservation (RDAP) Association Town Hall [virtual]. 
 
 **Coates, H. L.** (2020). Governance in the commons: Dealing with research data. Presentation to the Higher Education Data Governance (HEDGe) community. https://highereddatagovernance.org/
+
+**Coates, H. L.** (2019). Institutional Research Data Policy. Invited panelist for the "Ask Me Anything" series of the Research Data, Access, and Preservation (RDAP) Association [virtual].
 
 **Coates, H. L.** (2019). Changing the culture of P&T through conversations about research metrics. Presentation to Altmetric [virtual]. 
 
@@ -235,7 +241,7 @@ Johnson, S. A., Lutgring, J., Burt, R., Murphy, R. R., Theiner-Schumacher, P., *
 
 ## Digital Projects
 
-Castillo, D., **Coates, H. L.**, Narlock, M. (Under review). Curating Qualitative Data: Data Curation Primer. Data Curation Network. 
+Castillo, D., **Coates, H. L.**, Narlock, M. (2021). Curating Qualitative Data: Data Curation Primer. Data Curation Network. 
 
 Champieux, R., **Coates, H. L.**, Konkiel, S. (2016-present). Metrics Toolkit. [Available at http://www.metrics-toolkit.org] 
 
@@ -379,7 +385,7 @@ and Research Libraries
 
 ### University
 
-2021-2022	Member (invited), IUPUI Mentoring Circles Advisory Committee
+2021-2022	Member (invited), IUPUI LIFT Mentoring Circles Advisory Committee
 
 2020-2022	Member (appointed), IUPUI Faculty Council, Faculty Affairs Committee
 
