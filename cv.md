@@ -1,3 +1,5 @@
+layout:page
+hide_hero:true
 
 755 West Michigan Street, Indianapolis, IN 46202
 (317) 278-7125  
