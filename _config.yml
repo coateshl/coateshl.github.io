@@ -1,6 +1,7 @@
 remote_theme: chrisrhymes/bulma-clean-theme
+$ bundle
 plugins:
 - jekyll-remote-theme 
 
-title: "Heather L. Coates vitae"
-description: "This page contains selected information from my vitae, with a focus on my research and service."
+title: "Heather L. Coates"
+description: "Selected information from my vitae, with a focus on my research and service."
