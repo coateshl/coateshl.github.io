@@ -1,4 +1,3 @@
-# Heather Coates
 
 755 West Michigan Street, Indianapolis, IN 46202
 (317) 278-7125  
@@ -387,7 +386,7 @@ and Research Libraries
 
 ### University
 
-2021-2022	Member (invited), IUPUI LIFT Mentoring Circles Advisory Committee
+2021-2022	Member (invited), IUPUI LIFT Mentoring Circles Advisory Group
 
 2020-2022	Member (appointed), IUPUI Faculty Council, Faculty Affairs Committee
 
