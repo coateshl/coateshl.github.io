@@ -1,4 +1,4 @@
-#Curriculum vitae
+# Curriculum vitae
 
 755 West Michigan Street, Indianapolis, IN 46202
 (317) 278-7125  
