@@ -1,4 +1,10 @@
-# Curriculum vitae
+---
+layout: page
+title: Heather L. Coates
+date: 2022-01-26 20:05:00 
+
+---
+
 
 755 West Michigan Street, Indianapolis, IN 46202
 (317) 278-7125  
