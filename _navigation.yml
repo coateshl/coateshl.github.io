@@ -1,0 +1,6 @@
+- name: Home
+  link: /index/
+- name: Publications
+  link: /publications/
+- name: Presentations
+  link: /presentations/
