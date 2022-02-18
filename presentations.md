@@ -6,7 +6,9 @@ Goben, A., **Coates, H.**, Briney, K. (2021). Other duties as assigned: Data gov
 
 Foster, E. D. & **Coates, H. L.** (2019). Building a community of practice: Situating data management in the transition to electronic lab notebooks. Poster presentation at the Research Data Access & Preservation (RDAP) Summit, Miami, FL. 
 
-**Coates, H. L.**. (2018). Upskilling the promotion and tenure process: Training administrators for responsible use of research impact metrics. Presentation at the Transforming Research conference, Providence, RI. Available at http://hdl.handle.net/1805/17449. 
+Whipple, E. C., Foster, E. D., **Coates, H. L.** (2019). Using an electronic lab notebook system to promote data management plans. Presentation at the Medical Library Association annual meeting. Available at [https://hdl.handle.net/1805/23220](https://hdl.handle.net/1805/23220).
+
+**Coates, H. L.**. (2018). Upskilling the promotion and tenure process: Training administrators for responsible use of research impact metrics. Presentation at the Transforming Research conference, Providence, RI. Available at [http://hdl.handle.net/1805/17449](http://hdl.handle.net/1805/17449). 
 
 Pollock, C. & **Coates, H. L.** (2017). Historical Public Health Data Curation: Indiana State Board of Health Monthly Bulletin Project. Presentation at the Shaping Humanities Data Workshop at Digital Humanities 2017, Montreal, Canada.
 
@@ -20,27 +22,27 @@ Hoffman, S., Munro, K., Jester, A., **Coates, H. L.** (2017). Librarians as Chan
 
 **Coates, H. L.** (2016). Measuring up: How are we defining success for research data services? Chaired panel at the Research Data Access and Preservation Summit, Atlanta, GA.
 
-**Coates, H. L.**, Muilenberg, J., Whitmire, A. (2015). Promoting sustainable research practices through effective data management curricula. Panel presentation at the biennial conference of the Association of College and Research Libraries, Portland, OR. Available at http://hdl.handle.net/1805/6043. 
+**Coates, H. L.**, Muilenberg, J., Whitmire, A. (2015). Promoting sustainable research practices through effective data management curricula. Panel presentation at the biennial conference of the Association of College and Research Libraries, Portland, OR. Available at [http://hdl.handle.net/1805/6043](http://hdl.handle.net/1805/6043). 
 
-**Coates, H. L.** (2014). Teaching data literacy skills in a lab environment. Presentation at the annual conference of the International Association for Social Science Information Science & Technology (IASSIST), Toronto, ON. Available at http://hdl.handle.net/1805/4538. 
+**Coates, H. L.** (2014). Teaching data literacy skills in a lab environment. Presentation at the annual conference of the International Association for Social Science Information Science & Technology (IASSIST), Toronto, ON. Available at [http://hdl.handle.net/1805/4538](http://hdl.handle.net/1805/4538). 
 
-**Coates, H. L.** (2014). Building the Future of Research Together: Collaborating with a Clinical and Translational Science Award (CTSA)-Funded Translational Science Institute to Provide Data Management Training. Presentation at the annual conference of the Medical Library Association, Chicago, IL. Available at http://hdl.handle.net/1805/4453. 
+**Coates, H. L.** (2014). Building the Future of Research Together: Collaborating with a Clinical and Translational Science Award (CTSA)-Funded Translational Science Institute to Provide Data Management Training. Presentation at the annual conference of the Medical Library Association, Chicago, IL. Available at [http://hdl.handle.net/1805/4453](http://hdl.handle.net/1805/4453). 
 
 **Coates, H. L.** (2014). Improving data management in academic research: Assessment results for a pilot lab. Poster presentation at the annual conference of the Medical Library Association, Chicago, IL.
 
-Durrant, S. & **Coates, H.** (2013). Improving user engagement in a data repository with web analytics. Paper presentation at the 2013 LITA Forum, Louisville, KY. Available at http://hdl.handle.net/1805/3665. 
+Durrant, S. & **Coates, H.** (2013). Improving user engagement in a data repository with web analytics. Paper presentation at the 2013 LITA Forum, Louisville, KY. Available at [http://hdl.handle.net/1805/3665](http://hdl.handle.net/1805/3665). 
 
-**Coates, H.** (2013). Developing a data management lab: Teaching effective methods for health and social sciences research. Lightning talk and poster presentation at the Data Information Literacy Symposium, West Lafayette, IN. Available at http://hdl.handle.net/1805/3569. 
+**Coates, H.** (2013). Developing a data management lab: Teaching effective methods for health and social sciences research. Lightning talk and poster presentation at the Data Information Literacy Symposium, West Lafayette, IN. Available at [http://hdl.handle.net/1805/3569](http://hdl.handle.net/1805/3569). 
 
-**Coates, H. L.**, Konkiel, S., Witt, M. (2013). Data Services: Making It Happen. Panel presentation at the biennial conference of the Association of College and Research Libraries, Indianapolis, IN. Available at http://hdl.handle.net/1805/3278. 
+**Coates, H. L.**, Konkiel, S., Witt, M. (2013). Data Services: Making It Happen. Panel presentation at the biennial conference of the Association of College and Research Libraries, Indianapolis, IN. Available at [http://hdl.handle.net/1805/3278](http://hdl.handle.net/1805/3278). 
 
-**Coates, H. L.** (2013). Practical data management: Enabling graduate students and staff to function as ethical actors. Poster presentation at the biennial conference of the Association of College and Research Libraries, Indianapolis, IN. Available at http://hdl.handle.net/1805/3273. 
+**Coates, H. L.** (2013). Practical data management: Enabling graduate students and staff to function as ethical actors. Poster presentation at the biennial conference of the Association of College and Research Libraries, Indianapolis, IN. Available at [http://hdl.handle.net/1805/3273](http://hdl.handle.net/1805/3273). 
 
-**Coates, H. L.** (2013). Clinical Data Management: Strategies for unregulated data. Presentation at the annual ASIS&T Research Data Access and Preservation Summit, Baltimore, MD. Available at http://hdl.handle.net/1805/3279. 
+**Coates, H. L.** (2013). Clinical Data Management: Strategies for unregulated data. Presentation at the annual ASIS&T Research Data Access and Preservation Summit, Baltimore, MD. Available at [http://hdl.handle.net/1805/3279](http://hdl.handle.net/1805/3279). 
 
 Konkiel, S. & **Coates, H. L.** (2012). IU Librarians as Data Services Providers. Presentation at the Indiana University Libraries Faculty Librarian’s Day, Indianapolis, IN. 
 
-**Coates, H. L.** (2012). Opportunities in data curation: Integrating the library into the research process. Presentation at the annual Electronic Resources and Libraries conference, Austin, TX. Available at http://hdl.handle.net/1805/2789. 
+**Coates, H. L.** (2012). Opportunities in data curation: Integrating the library into the research process. Presentation at the annual Electronic Resources and Libraries conference, Austin, TX. Available at [http://hdl.handle.net/1805/2789](http://hdl.handle.net/1805/2789). 
 
 **Coates, H.** (2010). The exchange of information as a dimension of social support in caregiver networks. Poster presented at the Midwest Chapter/MLA Annual Meeting, Madison, WI.
 
