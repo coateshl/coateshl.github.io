@@ -162,7 +162,15 @@ Chabot, L., Bivens-Tatum, W., **Coates, H. L.**, Kern, M. K., Leonard, M., Palaz
 
 ### Refereed Presentations
 
-Goben, A., **Coates, H.**, Briney, K. (2021). Other duties as assigned: Data governance. Workshop at the Midwest Data Librarian Symposium [virtual].
+**Coates, H. L.**, Goben, A., & Briney, K. (2022). Shifting into data governance roles: Encounters of three data librarians. Presentation at the 2022 International Association for Social Science Information Service and Technology Conference (virtual).
+
+**Coates, H. L.**, Hinrichs, R., Lowe, M., & Stone, S. (2022). Preliminary results: Researching the research to transform library and information science literature. Presentation at the 2022 Quantitative & Qualitative Methods in Libraries Conference (virtual). Available at [https://hdl.handle.net/1805/28836](https://hdl.handle.net/1805/28836 )
+
+Goben, A., **Coates, H. L.**, & Briney, K. (2022). Expanding the Table: The Role of Library Data Professionals in Data Governance. Presentation at the Research Data Access & Preservation Summit (virtual). Available at [https://osf.io/mp39g/](https://osf.io/mp39g/)
+
+Dolan, L., Whipple, E. C., **Coates, H. L.** (2022). Copy and Pasting vs. Customization: Using Qualitative Analysis of NIH Grantees’ Data Management Plans to Shape Future DMP Support. Poster presentation at the Research Data Access & Preservation Summit (virtual). Available at [https://hdl.handle.net/1805/28526](https://hdl.handle.net/1805/28526)
+
+Goben, A., **Coates, H.**, Briney, K. (2021). Other duties as assigned: Data governance. Workshop at the Midwest Data Librarian Symposium (virtual).
 
 Foster, E. D. & **Coates, H. L.** (2019). Building a community of practice: Situating data management in the transition to electronic lab notebooks. Poster presentation at the Research Data Access & Preservation (RDAP) Summit, Miami, FL. 
 
@@ -215,25 +223,29 @@ Johnson, S. A., Lutgring, J., Burt, R., Murphy, R. R., Theiner-Schumacher, P., *
 
 ### Invited Talks
 
+Contaxis, N. & **Coates, H. L.** (2022). Practitioner Perspective 3: Infrastructure. Invited presentation for the NNLM National Center for Data Services NIH Data Management and Sharing Requirements Series (virtual). Available at [https://hdl.handle.net/1805/28926](https://hdl.handle.net/1805/28926)
+
+Coates, H. L. (2022). Practitioner Perspective 1: Internal Outreach and Policy. Invited presentation for the NNLM National Center for Data Services NIH Data Management and Sharing Requirements Series (virtual). Available at [https://hdl.handle.net/1805/28928](https://hdl.handle.net/1805/28928)
+
 **Coates, H. L.** (2021). FAIR Guiding Principles for (Meta)data: What’s all the fuss about? Invited presentation to the National Energy Research Scientific Computing Center (NERSC). 
 
 **Coates, H. L.** (2021). The NIH Policy for Data Management and Sharing: Opportunities for libraries. Invited mini-module speaker for the Research Data Management Librarian Academy. Available at https://learn.canvas.net/courses/2719 
 
-Castillo, D., **Coates, H.**, Narlock, M. (2021). Curating Qualitative Data Primer. Data Curation Network: All Hands Meeting [virtual].
+Castillo, D., **Coates, H.**, Narlock, M. (2021). Curating Qualitative Data Primer. Data Curation Network: All Hands Meeting (virtual).
 
-**Coates, H. L.** (2021). The NIH Policy for Data Management and Sharing. Invited panelist at the Research Data, Access, and Preservation (RDAP) Association Town Hall [virtual]. 
+**Coates, H. L.** (2021). The NIH Policy for Data Management and Sharing. Invited panelist at the Research Data, Access, and Preservation (RDAP) Association Town Hall (virtual). 
 
 **Coates, H. L.** (2020). Governance in the commons: Dealing with research data. Presentation to the Higher Education Data Governance (HEDGe) community. https://highereddatagovernance.org/
 
-**Coates, H. L.** (2019). Institutional Research Data Policy. Invited panelist for the "Ask Me Anything" series of the Research Data, Access, and Preservation (RDAP) Association [virtual].
+**Coates, H. L.** (2019). Institutional Research Data Policy. Invited panelist for the "Ask Me Anything" series of the Research Data, Access, and Preservation (RDAP) Association (virtual).
 
-**Coates, H. L.** (2019). Changing the culture of P&T through conversations about research metrics. Presentation to Altmetric [virtual]. 
+**Coates, H. L.** (2019). Changing the culture of P&T through conversations about research metrics. Presentation to Altmetric (virtual). 
 
 **Coates, H. L.** (2019). Evaluating the Impact of Community-Engaged Scholarship: Implications for Promotion & Tenure. Presentation at the Indiana Commission of Higher Education Faculty Leadership Conference. Indianapolis, IN.
 
-**Coates, H. L.** (2019). Changing the culture of P&T through conversations about research metrics. Presentation to the Association of College and Research Libraries (ACRL) Research Metrics Interest Group [virtual]. 
+**Coates, H. L.** (2019). Changing the culture of P&T through conversations about research metrics. Presentation to the Association of College and Research Libraries (ACRL) Research Metrics Interest Group (virtual). 
 
-**Coates, H. L.** (2016). Demonstrating impact as a librarian. Presentation to the Boise State University librarians [virtual].
+**Coates, H. L.** (2016). Demonstrating impact as a librarian. Presentation to the Boise State University librarians (virtual).
 
 **Coates, H. L.** (2016). Demonstrating impact as a practitioner-scholar. Invited panel presentation at The Future of Research Communications and e-Scholarship (FORCE16) annual meeting. Portland, OR. https://dx.doi.org/10.6084/m9.figshare.3180370.v3 
 
