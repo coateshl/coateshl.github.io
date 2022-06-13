@@ -263,7 +263,7 @@ Castillo, D., **Coates, H.**, Narlock, M. (2021). Curating Qualitative Data Prim
 
 ## Digital Projects
 
-Castillo, D., **Coates, H. L.**, Narlock, M. (2021). Curating Qualitative Data: Data Curation Primer. Data Curation Network. [https://github.com/DataCurationNetwork/data-primers/blob/master/Qualitative%20Data%20Curation%20Primer/qualitative-data-curation-primer.md](https://github.com/DataCurationNetwork/data-primers/blob/master/Qualitative%20Data%20Curation%20Primer/qualitative-data-curation-primer.md)
+Castillo, D., **Coates, H. L.**, Narlock, M. (2021). Curating Qualitative Data: Data Curation Primer. Data Curation Network. [Primer on Github](https://github.com/DataCurationNetwork/data-primers/blob/master/Qualitative%20Data%20Curation%20Primer/qualitative-data-curation-primer.md)
 
 Champieux, R., **Coates, H. L.**, Konkiel, S. (2016-present). Metrics Toolkit. Available at [https://www.metrics-toolkit.org](https://www.metrics-toolkit.org) 
 
