@@ -260,33 +260,27 @@ Castillo, D., **Coates, H.**, Narlock, M. (2021). Curating Qualitative Data Prim
 **Coates, H.** (2012). Meeting the NSF Data Management Plan Requirement. Indiana Forum for Research Administrators, Muncie, IN.
 
 
+
 ## Digital Projects
 
-Castillo, D., **Coates, H. L.**, Narlock, M. (2021). Curating Qualitative Data: Data Curation Primer. Data Curation Network. 
+Castillo, D., **Coates, H. L.**, Narlock, M. (2021). Curating Qualitative Data: Data Curation Primer. Data Curation Network. [https://github.com/DataCurationNetwork/data-primers/blob/master/Qualitative%20Data%20Curation%20Primer/qualitative-data-curation-primer.md](https://github.com/DataCurationNetwork/data-primers/blob/master/Qualitative%20Data%20Curation%20Primer/qualitative-data-curation-primer.md)
 
-Champieux, R., **Coates, H. L.**, Konkiel, S. (2016-present). Metrics Toolkit. [Available at http://www.metrics-toolkit.org] 
+Champieux, R., **Coates, H. L.**, Konkiel, S. (2016-present). Metrics Toolkit. Available at [https://www.metrics-toolkit.org](https://www.metrics-toolkit.org) 
 
-Love Data Week Planning Committee (2019). Love Data Week event website. [Available at http://lovedataweek.org] 
+Love Data Week Planning Committee. (2016-2020). International Love Data Week event website. Archived site available at [http://hdl.handle.net/1805/23785](http://hdl.handle.net/1805/23785)
 
-IUPUI University Library Center for Digital Scholarship Blog. 2-5 contributions per year, 2014-2019. [Available at https://ulib.iupui.edu/digitalscholarship/blog] 
+IUPUI University Library Center for Digital Scholarship Blog. 2-5 contributions per year, 2014-2019. Available at [https://ulib.iupui.edu/digitalscholarship/blog](https://ulib.iupui.edu/digitalscholarship/blog) 
 
-Love Data Week Planning Committee (2018). Love Data Week event website. [Available at http://lovedataweek.org] 
+SPARC Early Career Librarians (2017). Open Action Kit. Available at [https://github.com/sparcopen/Open-Action-Kit](https://github.com/sparcopen/Open-Action-Kit)
 
-SPARC Early Career Librarians (2017). Open Action Kit. [Available at https://github.com/
-sparcopen/Open-Action-Kit] 
+**Coates, H. L.** (2016, October). Research metrics beyond the Impact Factor (1 of 4 educational emails developed for Open Access Week). Distributed to the ACRL EBSS mailing list on behalf of the ACRL EBSS Scholarly Communication Committee.
 
-Love Your Data Planning Committee (2017). Love Your Data Week event website. [Available at https://loveyourdata.wordpress.com/] 
+**Coates, H. L.** & Odell, J. D. (2016). How can open access work with promotion and tenure? (blog post) SPARC Open Access Week Blog. Available at [http://www.openaccessweek.org/profiles/blogs/how-can-open-access-work-with-promotion-tenure](http://www.openaccessweek.org/profiles/blogs/how-can-open-access-work-with-promotion-tenure)
 
-Love Your Data Planning Committee (2016). Love Your Data Week event website. [Available at https://loveyourdata.wordpress.com/] 
+**Coates, H. L.** (2015, June 9). Advice from a librarian: How to do successful altmetrics outreach (blog post). Available at [http://www.altmetric.com/blog/advice-from-a-librarian/](http://www.altmetric.com/blog/advice-from-a-librarian/)
 
-**Coates, H. L.** (2016, October). Research metrics beyond the Impact Factor [1 of 4 educational emails developed for Open Access Week]. Distributed to the ACRL EBSS mailing list on behalf of the ACRL EBSS Scholarly Communication Committee.
+**Coates, H. L.** (2015, July 7). Planning an altmetrics workshop: Themes to emphasize (blog post). Available at [http://www.altmetric.com/blog/planning-an-altmetrics-workshop-themes-to-emphasize/](http://www.altmetric.com/blog/planning-an-altmetrics-workshop-themes-to-emphasize/)
 
-**Coates, H. L.** & Odell, J. D. (2016). How can open access work with promotion and tenure? [blog post] SPARC Open Access Week Blog. [Available at http://www.openaccessweek.org/
-profiles/blogs/how-can-open-access-work-with-promotion-tenure]
-
-**Coates, H. L.** (2015, June 9). Advice from a librarian: How to do successful altmetrics outreach [blog post]. [Available at http://www.altmetric.com/blog/advice-from-a-librarian/]
-
-**Coates, H. L.** (2015, July 7). Planning an altmetrics workshop: Themes to emphasize [blog post]. [Available at http://www.altmetric.com/blog/planning-an-altmetrics-workshop-themes-to-emphasize/]
 
 
 ## Funding
@@ -294,7 +288,7 @@ profiles/blogs/how-can-open-access-work-with-promotion-tenure]
 **2016-2017**
 Co-Creator with Robin Champieux & Stacy Konkiel
 
-Metrics Toolkit (http://www.metrics-toolkit.org/)
+Metrics Toolkit (https://www.metrics-toolkit.org/)
 
 Future of Research Communications & e-Scholarship (FORCE), FORCE16 $1.5K Challenge
 
