@@ -288,7 +288,7 @@ SPARC Early Career Librarians (2017). Open Action Kit. Available at [https://git
 **2016-2017**
 Co-Creator with Robin Champieux & Stacy Konkiel
 
-Metrics Toolkit (https://www.metrics-toolkit.org/)
+Metrics Toolkit [https://www.metrics-toolkit.org/](https://www.metrics-toolkit.org/)
 
 Future of Research Communications & e-Scholarship (FORCE), FORCE16 $1.5K Challenge
 
@@ -397,7 +397,6 @@ and Research Libraries
 2011-2012	Member, MIS Career Award Jury, Medical Library Association Grants and Scholarships Committee
 
 2009-2011	Chair, Midwest Chapter/ Medical Library Association 2011 Annual Conference - Continuing Education Committee
-
 
 
 ### University
