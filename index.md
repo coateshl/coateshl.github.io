@@ -1,3 +1,5 @@
+# Heather L. Coates
+
 755 West Michigan Street, Indianapolis, IN 46202
 (317) 278-7125  
 hcoates at iupui dot edu
@@ -8,6 +10,7 @@ hcoates at iupui dot edu
 
 [CV in Google docs](https://docs.google.com/document/d/1KLlgAOZULZNfncej_i-TlrwLNG7SYv_ry1-uOWBrQbU/edit?usp=sharing)
 
+&nbsp;  
 
 ## Education
 
