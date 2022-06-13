@@ -8,6 +8,8 @@ hcoates at iupui dot edu
 
 [ORCID: 0000-0003-4290-6997](https://orcid.org/0000-0003-4290-6997)
 
+[CV in Google docs](https://docs.google.com/document/d/1KLlgAOZULZNfncej_i-TlrwLNG7SYv_ry1-uOWBrQbU/edit?usp=sharing)
+
 
 ## Education
 
