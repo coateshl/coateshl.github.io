@@ -1,9 +1,4 @@
----
-layout: page
-title: Heather L. Coates
-date: 2022-01-26 20:05:00 
----
-
+# Heather L. Coates
 
 755 West Michigan Street, Indianapolis, IN 46202
 (317) 278-7125  
@@ -30,7 +25,7 @@ School of Informatics, Indiana University – Indianapolis, IN
 
 School of Science, Purdue University – West Lafayette, IN
 
-
+&nbsp;  
 
 ## Experience
 
@@ -110,7 +105,7 @@ Coordinated the research, outreach, and professional training activities of a di
 -	Developed a health literacy workshop for caregivers of children with special needs.
 -	Designed and developed multimedia, web-based instructional modules for parents and school personnel using Adobe Flash and Captivate. 
 
-
+&nbsp;  
 
 ## Bibliography
 
@@ -146,6 +141,7 @@ Macy, K. V. & **Coates, H. L.** (2016). Data information literacy instruction in
 
 **Coates, H.** (2013). Exploring the disconnect between information literacy skills and self-estimates of ability in first-year community college students. *Evidence Based Library and Information Practice*, 8(2). [https://doi.org/10.18438/B8KP5T](https://doi.org/10.18438/B8KP5T)
 
+&nbsp;  
 
 ### Scholarly Publications – Non-refereed
 
@@ -220,6 +216,7 @@ Korzekwa, P. A., Swiezy, N. B., Stuart, M. L., Pozdol, S., Hume, K., & **Coates,
 
 Johnson, S. A., Lutgring, J., Burt, R., Murphy, R. R., Theiner-Schumacher, P., **Coates, H.**, Yechiam, E.,  & Stout, J. C. (2005). Skin Conductance Responses during the Iowa Gambling Task in Asperger’s Disorder. Poster presented at the annual meeting of the Cognitive Neuroscience Society, New York, NY. 
 
+&nbsp;  
 
 ### Invited Talks
 
@@ -259,7 +256,7 @@ Castillo, D., **Coates, H.**, Narlock, M. (2021). Curating Qualitative Data Prim
 
 **Coates, H.** (2012). Meeting the NSF Data Management Plan Requirement. Indiana Forum for Research Administrators, Muncie, IN.
 
-
+&nbsp;  
 
 ## Digital Projects
 
@@ -282,6 +279,7 @@ SPARC Early Career Librarians (2017). Open Action Kit. Available at [https://git
 **Coates, H. L.** (2015, July 7). Planning an altmetrics workshop: Themes to emphasize (blog post). Available at [http://www.altmetric.com/blog/planning-an-altmetrics-workshop-themes-to-emphasize/](http://www.altmetric.com/blog/planning-an-altmetrics-workshop-themes-to-emphasize/)
 
 
+&nbsp;  
 
 ## Funding
 
@@ -298,7 +296,7 @@ Consultant, PI: Elaine Skopelja, MALS, AHIP
 Transforming Special Collection Digital Content Silos into Digital Knowledge using Semantic Web Technologies
 Institute of Museum and Library Sciences Sparks! Ignition Grant
 
-
+&nbsp;  
 
 ## Honors & Awards
 
@@ -318,6 +316,7 @@ Institute of Museum and Library Sciences Sparks! Ignition Grant
 
 2010	Midwest Chapter Medical Library Association Annual Conference Student Scholarship - $500
 
+&nbsp;  
 
 ## Professional Development Courses & Training
 
@@ -353,6 +352,7 @@ Institute of Museum and Library Sciences Sparks! Ignition Grant
 2012	From Ideas to Publication (3-part webinar series), Association of College 
 and Research Libraries
 
+&nbsp;  
 
 ## Service
 
