@@ -223,6 +223,8 @@ Johnson, S. A., Lutgring, J., Burt, R., Murphy, R. R., Theiner-Schumacher, P., *
 
 ### Invited Talks
 
+Coates, H. L. (2022). Open Access is necessary but not sufficient to ensure research integrity. Invited Open Access Week presentation to the Texas Digital Library Research Integrity Working Group (virtual). Available at [https://hdl.handle.net/1805/30531](https://hdl.handle.net/1805/30531)
+
 Contaxis, N. & **Coates, H. L.** (2022). Practitioner Perspective 3: Infrastructure. Invited presentation for the NNLM National Center for Data Services NIH Data Management and Sharing Requirements Series (virtual). Available at [https://hdl.handle.net/1805/28926](https://hdl.handle.net/1805/28926)
 
 Coates, H. L. (2022). Practitioner Perspective 1: Internal Outreach and Policy. Invited presentation for the NNLM National Center for Data Services NIH Data Management and Sharing Requirements Series (virtual). Available at [https://hdl.handle.net/1805/28928](https://hdl.handle.net/1805/28928)
