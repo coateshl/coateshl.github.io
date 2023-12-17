@@ -42,6 +42,8 @@ Macy, K. V. & **Coates, H. L.** (2016). Data information literacy instruction in
 
 ### Scholarly Publications – Non-refereed
 
+Foster, E. D. & **Coates, H. L.** (2023). Finding common ground and identifying opportunities: Case study in data policy at an academic medical school. Available at [https://hdl.handle.net/1805/37197](https://hdl.handle.net/1805/37197). 
+
 Champieux, R., **Coates, H.**, Konkiel, S., Gutzman, K. (2018). Metrics Toolkit: An online evidence-based resource for navigating the research metrics landscape. *Journal of the Medical Library Association*, 106(4), 496-497.
 
 Adams, N. E., Been, J., Bivens-Tatum, W., **Coates, H. L.**, Falciani-White, N., Fuchs, C., Kern, K., Leonard, M., Oleen, J., Owens, E. E., Palazzolo, C., Wang, M. (2017). Association of College and Research Libraries Environmental Scan 2017. Available at http://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/whitepapers/EnvironmentalScan2017.pdf
