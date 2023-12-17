@@ -32,9 +32,8 @@ School of Science, Purdue University – West Lafayette, IN
 
 ## Experience
 
-**7/2017 – present**
-
-**Associate Librarian, IUPUI University Library, Center for Digital Scholarship**
+**7/2023 - present**
+**Librarian, IUPUI University Library, Center for Digital Scholarship**
 
 Digital Scholarship & Data Management Librarian
 My role as the Digital Scholarship and Data Management Librarian at University Library is to provide research support to IUPUI faculty, staff, and students, including support for open research practices. 
@@ -42,6 +41,7 @@ My role as the Digital Scholarship and Data Management Librarian at University L
  - Manage the institutional data repository (IUPUI DataWorks) as a platform for enabling sustainable data sharing, discovery, reuse, and citation. IUPUI DataWorks publishes both open data and metadata about controlled access datasets. 
  - Advocate for and support the responsible use of research impact metrics and qualitative evidence in the tenure and promotion process, coordinating the campus-wide Research Metrics Services at IUPUI team. 
  - Contribute to the broader mission of the Center for Digital Scholarship by engaging with faculty, staff, and students about dissemination of scholarly products including publications, data, code, and more.  
+
 
 **6/2017 - present**
 
@@ -53,6 +53,18 @@ As a Data Steward, I am responsible for developing and maintaining high-level gu
 -	Collaborate with teams and units to develop guiding principles and processes for using institutional data for research purposes.
 -	Collaborate with the UISO, UIPO, General Counsel, and UITS to address emerging areas such as the EU General Data Protection Regulation (GDPR), genomic data, learning analytics, etc.
 -	Contribute to security reviews of third-party platforms and make determinations regarding use of such systems for research purposes.
+
+
+**7/2017 – 6/2023**
+
+**Associate Librarian, IUPUI University Library, Center for Digital Scholarship**
+
+Digital Scholarship & Data Management Librarian
+My role as the Digital Scholarship and Data Management Librarian at University Library is to provide research support to IUPUI faculty, staff, and students, including support for open research practices. 
+ - Meet researchers’ needs related to research data management, archiving, sharing requirements, discovery, and reproducibility by providing consultations, workshops, and maintaining strong working relationships with other research support units. 
+ - Manage the institutional data repository (IUPUI DataWorks) as a platform for enabling sustainable data sharing, discovery, reuse, and citation. IUPUI DataWorks publishes both open data and metadata about controlled access datasets. 
+ - Advocate for and support the responsible use of research impact metrics and qualitative evidence in the tenure and promotion process, coordinating the campus-wide Research Metrics Services at IUPUI team. 
+ - Contribute to the broader mission of the Center for Digital Scholarship by engaging with faculty, staff, and students about dissemination of scholarly products including publications, data, code, and more.  
 
 
 **5/2018 – 3/2020**
