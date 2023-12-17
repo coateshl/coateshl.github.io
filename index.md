@@ -436,8 +436,6 @@ and Research Libraries
 
 ### Professional
 
-2023-2024	Member, Medical Library Association 2024 Data Management and Services Symposium Planning Committee
-
 2023-2024	Member, Research Data Access & Preservation - Education and Resources Committee
 
 2023	External reviewer for one librarian application for Promotion & Tenure 
