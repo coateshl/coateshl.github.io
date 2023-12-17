@@ -2,6 +2,16 @@
 
 ### Refereed Presentations
 
+Coates, H. L. (2023). Research Data Commons and Data Communities: Building bridges between institutional functions and informal communities. Presentation at the Midwest Data Librarian Symposium, Cincinnati, OH. Available at [https://osf.io/6wts7/](https://osf.io/6wts7/). 
+
+**Coates, H. L.**, Goben, A., & Briney, K. (2022). Shifting into data governance roles: Encounters of three data librarians. Presentation at the 2022 International Association for Social Science Information Service and Technology Conference (virtual). Available at [https://hdl.handle.net/1805/29331](https://hdl.handle.net/1805/29331). 
+
+**Coates, H. L.**, Hinrichs, R., Lowe, M., & Stone, S. (2022). Preliminary results: Researching the research to transform library and information science literature. Presentation at the 2022 Quantitative & Qualitative Methods in Libraries Conference (virtual). Available at [https://hdl.handle.net/1805/28836](https://hdl.handle.net/1805/28836). 
+
+Goben, A., **Coates, H. L.**, & Briney, K. (2022). Expanding the Table: The Role of Library Data Professionals in Data Governance. Presentation at the Research Data Access & Preservation Summit (virtual). Available at [https://osf.io/mp39g/](https://osf.io/mp39g/). 
+
+Dolan, L., Whipple, E. C., **Coates, H. L.** (2022). Copy and Pasting vs. Customization: Using Qualitative Analysis of NIH Grantees’ Data Management Plans to Shape Future DMP Support. Poster presentation at the Research Data Access & Preservation Summit (virtual). Available at [https://hdl.handle.net/1805/28526](https://hdl.handle.net/1805/28526).
+
 Goben, A., **Coates, H.**, Briney, K. (2021). Other duties as assigned: Data governance. Workshop at the Midwest Data Librarian Symposium [virtual].
 
 Foster, E. D. & **Coates, H. L.** (2019). Building a community of practice: Situating data management in the transition to electronic lab notebooks. Poster presentation at the Research Data Access & Preservation (RDAP) Summit, Miami, FL. 
@@ -54,6 +64,14 @@ Johnson, S. A., Lutgring, J., Burt, R., Murphy, R. R., Theiner-Schumacher, P., *
 
 
 ### Invited Talks
+
+Coates, H. L. (2023). Defining and Measuring Research Impact in the Humanities. Invited presentation at the John Hope Franklin Center for Interdisciplinary and International Studies, Wednesdays at the Center Series (virtual). Recording available at [https://www.youtube.com/watch?v=AXtbsha9T5A](https://www.youtube.com/watch?v=AXtbsha9T5A). Slides available at [https://hdl.handle.net/1805/32277](https://hdl.handle.net/1805/32277).
+
+Coates, H. L. (2022). Open Access is necessary but not sufficient to ensure research integrity. Invited Open Access Week presentation to the Texas Digital Library Research Integrity Working Group (virtual). Available at [https://hdl.handle.net/1805/30531](https://hdl.handle.net/1805/30531). 
+
+Contaxis, N. & **Coates, H. L.** (2022). Practitioner Perspectives Panel 4: Infrastructure. Invited presentation for the NNLM National Center for Data Services NIH Data Management and Sharing Requirements Series (virtual). Available at [https://hdl.handle.net/1805/28926](https://hdl.handle.net/1805/28926).
+
+Coates, H. L. (2022). Practitioner Perspectives Panel 2: Internal Outreach and Policy. Invited presentation for the NNLM National Center for Data Services NIH Data Management and Sharing Requirements Series (virtual). Available at [https://hdl.handle.net/1805/28928](https://hdl.handle.net/1805/28928). 
 
 **Coates, H. L.** (2021). FAIR Guiding Principles for (Meta)data: What’s all the fuss about? Invited presentation to the National Energy Research Scientific Computing Center (NERSC). 
 
