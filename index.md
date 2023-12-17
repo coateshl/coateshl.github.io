@@ -370,6 +370,10 @@ Institute of Museum and Library Sciences Sparks! Ignition Grant
 
 ## Professional Development Courses & Training
 
+2023	AtKisson Training Group Lead-in3 Program
+
+2022-2023	IU Faculty & Staff Mentoring Dialogues
+
 2020	Introduction to Qualitative Research Methods (Library Juice Academy)
 
 2020	Bibliometrics and Scientometrics for Research Evaluation (CWTS, Leiden University)
