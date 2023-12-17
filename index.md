@@ -129,6 +129,8 @@ Coordinated the research, outreach, and professional training activities of a di
 
 ### Scholarly Publications – Refereed
 
+**Coates, H. L.**, Goben, A., Briney, K. (In press). What if It Didn’t Happen: Data Management and Avoiding Research Misconduct. *Journal of eScience Librarianship.*
+
 Champieux, R. & **Coates, H. L.** (2022). Metrics for evaluating the impact of data sets. In A. Berez-Kroeker, B. McDonnell, E. Koller, and L. Collister (Eds.), *The Open Handbook of Linguistic Data Management and Archiving*. MIT Press Direct. [https://doi.org/10.7551/mitpress/12200.003.0016](https://doi.org/10.7551/mitpress/12200.003.0016)
 
 Briney, K. A., **Coates, H.**, Goben, A. (2020) Foundational Practices of Research Data Management. *Research Ideas and Outcomes*, 6: e56508. [https://doi.org/10.3897/rio.6.e56508](https://doi.org/10.3897/rio.6.e56508)
@@ -163,6 +165,8 @@ Macy, K. V. & **Coates, H. L.** (2016). Data information literacy instruction in
 
 ### Scholarly Publications – Non-refereed
 
+Foster, E. D. & **Coates, H. L.** (2023). Finding common ground and identifying opportunities: Case study in data policy at an academic medical school. Available at [https://hdl.handle.net/1805/37197](https://hdl.handle.net/1805/37197). 
+
 Champieux, R., **Coates, H.**, Konkiel, S., Gutzman, K. (2018). Metrics Toolkit: An online evidence-based resource for navigating the research metrics landscape. *Journal of the Medical Library Association*, 106(4), 496-497.
 
 Adams, N. E., Been, J., Bivens-Tatum, W., **Coates, H. L.**, Falciani-White, N., Fuchs, C., Kern, K., Leonard, M., Oleen, J., Owens, E. E., Palazzolo, C., Wang, M. (2017). Association of College and Research Libraries Environmental Scan 2017. Available at [http://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/whitepapers/EnvironmentalScan2017.pdf](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/whitepapers/EnvironmentalScan2017.pdf)
@@ -171,16 +175,19 @@ Chabot, L., Bivens-Tatum, W., **Coates, H. L.**, Kern, M. K., Leonard, M., Palaz
 
 **Coates, H. L.** (2016). Training researchers how to manage data to produce better results, enable reuse, and provide for long-term access. In S. Hoffman (Ed.) *Dynamic Research Support for Academic Libraries*. London: Facet Publishing. Available at [https://hdl.handle.net/1805/9319](https://hdl.handle.net/1805/9319).
 
+&nbsp;  
 
 ## Presentations
 
 ### Refereed Presentations
 
-**Coates, H. L.**, Goben, A., & Briney, K. (2022). Shifting into data governance roles: Encounters of three data librarians. Presentation at the 2022 International Association for Social Science Information Service and Technology Conference (virtual).
+Coates, H. L. (2023). Research Data Commons and Data Communities: Building bridges between institutional functions and informal communities. Presentation at the Midwest Data Librarian Symposium, Cincinnati, OH. Available at [https://osf.io/6wts7/](https://osf.io/6wts7/). 
 
-**Coates, H. L.**, Hinrichs, R., Lowe, M., & Stone, S. (2022). Preliminary results: Researching the research to transform library and information science literature. Presentation at the 2022 Quantitative & Qualitative Methods in Libraries Conference (virtual). Available at [https://hdl.handle.net/1805/28836](https://hdl.handle.net/1805/28836 )
+**Coates, H. L.**, Goben, A., & Briney, K. (2022). Shifting into data governance roles: Encounters of three data librarians. Presentation at the 2022 International Association for Social Science Information Service and Technology Conference (virtual). Available at [https://hdl.handle.net/1805/29331](https://hdl.handle.net/1805/29331). 
 
-Goben, A., **Coates, H. L.**, & Briney, K. (2022). Expanding the Table: The Role of Library Data Professionals in Data Governance. Presentation at the Research Data Access & Preservation Summit (virtual). Available at [https://osf.io/mp39g/](https://osf.io/mp39g/)
+**Coates, H. L.**, Hinrichs, R., Lowe, M., & Stone, S. (2022). Preliminary results: Researching the research to transform library and information science literature. Presentation at the 2022 Quantitative & Qualitative Methods in Libraries Conference (virtual). Available at [https://hdl.handle.net/1805/28836](https://hdl.handle.net/1805/28836). 
+
+Goben, A., **Coates, H. L.**, & Briney, K. (2022). Expanding the Table: The Role of Library Data Professionals in Data Governance. Presentation at the Research Data Access & Preservation Summit (virtual). Available at [https://osf.io/mp39g/](https://osf.io/mp39g/). 
 
 Dolan, L., Whipple, E. C., **Coates, H. L.** (2022). Copy and Pasting vs. Customization: Using Qualitative Analysis of NIH Grantees’ Data Management Plans to Shape Future DMP Support. Poster presentation at the Research Data Access & Preservation Summit (virtual). Available at [https://hdl.handle.net/1805/28526](https://hdl.handle.net/1805/28526)
 
@@ -238,11 +245,13 @@ Johnson, S. A., Lutgring, J., Burt, R., Murphy, R. R., Theiner-Schumacher, P., *
 
 ### Invited Talks
 
-Coates, H. L. (2022). Open Access is necessary but not sufficient to ensure research integrity. Invited Open Access Week presentation to the Texas Digital Library Research Integrity Working Group (virtual). Available at [https://hdl.handle.net/1805/30531](https://hdl.handle.net/1805/30531)
+Coates, H. L. (2023). Defining and Measuring Research Impact in the Humanities. Invited presentation at the John Hope Franklin Center for Interdisciplinary and International Studies, Wednesdays at the Center Series (virtual). Recording available at [https://www.youtube.com/watch?v=AXtbsha9T5A](https://www.youtube.com/watch?v=AXtbsha9T5A). Slides available at [https://hdl.handle.net/1805/32277](https://hdl.handle.net/1805/32277).
 
-Contaxis, N. & **Coates, H. L.** (2022). Practitioner Perspective 3: Infrastructure. Invited presentation for the NNLM National Center for Data Services NIH Data Management and Sharing Requirements Series (virtual). Available at [https://hdl.handle.net/1805/28926](https://hdl.handle.net/1805/28926)
+Coates, H. L. (2022). Open Access is necessary but not sufficient to ensure research integrity. Invited Open Access Week presentation to the Texas Digital Library Research Integrity Working Group (virtual). Available at [https://hdl.handle.net/1805/30531](https://hdl.handle.net/1805/30531). 
 
-Coates, H. L. (2022). Practitioner Perspective 1: Internal Outreach and Policy. Invited presentation for the NNLM National Center for Data Services NIH Data Management and Sharing Requirements Series (virtual). Available at [https://hdl.handle.net/1805/28928](https://hdl.handle.net/1805/28928)
+Contaxis, N. & **Coates, H. L.** (2022). Practitioner Perspective 3: Infrastructure. Invited presentation for the NNLM National Center for Data Services NIH Data Management and Sharing Requirements Series (virtual). Available at [https://hdl.handle.net/1805/28926](https://hdl.handle.net/1805/28926).
+
+Coates, H. L. (2022). Practitioner Perspective 1: Internal Outreach and Policy. Invited presentation for the NNLM National Center for Data Services NIH Data Management and Sharing Requirements Series (virtual). Available at [https://hdl.handle.net/1805/28928](https://hdl.handle.net/1805/28928).
 
 **Coates, H. L.** (2021). FAIR Guiding Principles for (Meta)data: What’s all the fuss about? Invited presentation to the National Energy Research Scientific Computing Center (NERSC). 
 
@@ -298,6 +307,27 @@ SPARC Early Career Librarians (2017). Open Action Kit. Available at [https://git
 
 **Coates, H. L.** (2015, July 7). Planning an altmetrics workshop: Themes to emphasize (blog post). Available at [http://www.altmetric.com/blog/planning-an-altmetrics-workshop-themes-to-emphasize/](http://www.altmetric.com/blog/planning-an-altmetrics-workshop-themes-to-emphasize/)
 
+&nbsp;  
+
+## Professional Development Workshops (taught)
+
+**Coates, H. L.** & Dickinson, M. (2023). Walk, don’t run! Dipping our toes into the pool of “generative” AI. Workshop at the Research, Data, Access, & Preservation Summit, Cincinnati, OH.
+
+**Coates, H. L.**, Goben, A., & Briney, K. (2023). What if it didn’t happen? Data Management and Avoiding Research Misconduct. Workshop at the Research, Data, Access, & Preservation Summit (virtual). 
+
+Coates, H. L. (2023). Consultation logistics and evidence summaries. Required training for the IUPUI University Library Educational Services Librarians. 
+
+Coates, H. L. (2023). Other forms of evidence. Required training for the IUPUI University Library Educational Services Librarians. 
+
+Coates, H. L. (2023). Altmetrics - Social media metrics and webometrics. Required training for the IUPUI University Library Educational Services Librarians. 
+
+Coates, H. L. (2022). Citation metrics for journals. Required training for the IUPUI University Library Educational Services Librarians. 
+
+Coates, H. L. (2022). Citation metrics for articles, chapters, and other products. Required training for the IUPUI University Library Educational Services Librarians. 
+
+Coates, H. L. (2022). Fundamentals of research evaluation & impact metrics. Required training for the IUPUI University Library Educational Services Librarians. 
+
+Coates, H. L. (2019). Make Your Work Count for Librarians: Gather Evidence. University Library workshop for faculty librarians. 
 
 &nbsp;  
 
@@ -376,87 +406,158 @@ and Research Libraries
 
 ## Service
 
+### Ex Officio
+
+2023 - present	University Data Management Council - AI Governance Working Group (member)
+
+2022 - present	University Data Management Council - Data Inventory Working Group (member)
+
+2022 - present	IU Cloud Security Interest Group/Cloud Technology Coordination Committee (member)	
+
+2021 - present	IU/IU Health/Eskenazi Joint Governance Group (member)
+
+2020 - present	Indiana University Data Management Council (permanent member)
+
+2020		Indiana University 3PA Box Replacement Working Group (member)
+
+2020 		Indiana University Office 365 & Google Suite Working Group (member)	
+
+2018 - present	University Library Scholarly Communication Advisory Group (member)
+
+2018-2021	Indiana University General Data Protection Regulation (GDPR) Working Group (member)
+
+2017-2019	Indiana University Data Management Council (rotating member)
+
+&nbsp;  
+
 ### Professional
+
+2023-2024	Member, Medical Library Association 2024 Data Management and Services Symposium Planning Committee
+
+2023-2024	Member, Research Data Access & Preservation - Education and Resources Committee
+
+2023	External reviewer for one librarian application for Promotion & Tenure 
+
+2022	External reviewer for one librarian application for Promotion & Tenure 
+
+2022	Peer Mentor, Journal of eScience Librarianship – RDAP 2021 Special Issue
 
 2021-2022	Guest Editor, Journal of eScience Librarianship – RDAP 2021 Special Issue
 
 2020-2021	Guest Editor, Journal of eScience Librarianship – RDAP 2020 Special Issue
 
-2020	External reviewer for two librarian Promotion & Tenure/Continuing Appointment dossiers
+2020	External reviewer for two librarian application forPromotion & Tenure/Continuing Appointment
 
 2019-2022	Member, Research Data Access & Preservation Association (RDAP) – Publishing Committee
 
-2019-2020	Member, Unizin - Research Approvals for Data Taskforce
+2019	External reviewer for one librarian Promotion & Tenure dossier
 
 2018-2019	Member, Research Data Access & Preservation Association (RDAP) - Education and Resources Committee
 
-2015-present	Member, SPARC Open Data Advisory Group
+2018	External reviewer for one librarian application for Promotion & Tenure
 
-2015-2017	Member, ACRL EBSS Scholarly Communication Committee
+2015-2017	Member (appointed), SPARC Open Data Advisory Group
 
-2015-2017	Member, ACRL Research Planning and Review Committee
+2015-2017	Member (elected), ACRL EBSS Scholarly Communication Committee
+
+2015-2017	Member (elected), ACRL Research Planning and Review Committee
 
 2016-2017	Co-Chair, Midwest Data Librarian Symposium (MDLS) Planning Committee 
+
+2016	External reviewer for librarian application for Promotion & Tenure
 
 2016	Field Reviewer, Institute of Museum and Library Services
 
 2016	Ad Hoc Reviewer, National Institutes of Health
 
-2013-2015	Secretary/Treasurer, Research Section, Medical Library Association
+2013-2015	Secretary/Treasurer (elected), Research Section, Medical Library Association
 
-2013-2015	Member, Assessment Committee, Science & Technology Section, Association of College and Research Libraries
+2013-2015	Member (appointed), Assessment Committee, Science & Technology Section, Association of College and Research Libraries
 
-2013	Co-Chair, Publicity, ACM/IEEE Joint Conference on Digital Libraries
+2013	Co-Chair (appointed), Publicity, ACM/IEEE Joint Conference on Digital Libraries
 
-2013	Member, Medical Library Association 2013 Meeting - Poster Review (Ad Hoc) 
+2013	Member (elected), Medical Library Association 2013 Meeting - Poster Review (Ad Hoc) 
 
 2011-2012	Editor, Autism Pages, New York Online Access to Health (NOAH; consumer health website)
 
-2011-2012	Member, MIS Career Award Jury, Medical Library Association Grants and Scholarships Committee
+2011-2012	Member (elected), MIS Career Award Jury, Medical Library Association Grants and Scholarships Committee
 
 2009-2011	Chair, Midwest Chapter/ Medical Library Association 2011 Annual Conference - Continuing Education Committee
 
+*Ad hoc reviewer for the journals eLife, Frontiers in Research Metrics & Analytics, Journal of e-Science Librarianship, Journal of Librarianship & Scholarly Communication, Journal of New Librarianship, Journal of the Medical Library Association*
+
+&nbsp;  
 
 ### University
 
-2021-2022	Member (invited), IUPUI LIFT Mentoring Circles Advisory Group
+2023-2024	Chair (elected), University Library Faculty Organization - Primary Peer Review Committee
+
+2023-2024	Member (appointed), University Library AI Interest Group
+
+2022-2023	Member, IUPUI LIFT Peer Mentoring Circles Co-Facilitator
+
+2022	Member, IUPUI University Library Research Information Management Librarian Search & Screen Committee
+
+2021-2022	Member (invited), IUPUI LIFT Peer Mentoring Circles Advisory Committee
 
 2020-2022	Member (appointed), IUPUI Faculty Council, Faculty Affairs Committee
-
-2021-present	Member, IU, IU Health, VA, Eskenazi Joint Governance Group
 
 2021	Facilitator, University Library Anti-racist Book Club
 
 2020-present	Permanent Member (appointed), IU University Data Management Council
 
-2018-present	Member, Indiana University - EU General Data Protection Regulation (GDPR) Working Group
+2020-2021	Member (appointed), IUPUI Public Access to Research Data Working Group
 
-2019-2020	Member, IUPUI Library Faculty - Mentoring & Professional Development Committee
+2020-2021	Member (elected), University Library Faculty Organization - Primary Peer Review Committee
 
-2018-2019	Chair, IUPUI Library Faculty
+2020	Member (appointed), IU Office 365 & Google Suite Working Group
 
-2018-2019	Chair, University Library Faculty Organization - Primary Peer Review Committee
+2019-2020	Member (appointed), Unizin - Research Approvals for Data Taskforce
+
+2019	University Health Information Manager/HIPAA Privacy Officer Search Committee
+
+2018-present	Member, Indiana University School of Medicine Information Management Advisory Board
+
+2018-2020	Member (appointed), IU EU General Data Protection Regulation (GDPR) Working Group
 
 2017-2020	Rotating Member (appointed), IU University Data Management Council
 
-2017-2018	Vice Chair/Chair Elect, IUPUI Library Faculty
+2019-2021	Member (elected), IUPUI Library Faculty - Promotion and Tenure Committee
 
-2017-2018	Vice Chair/Chair Elect, University Library Faculty Organization Primary Peer Review Committee
+2019-2021	Member (elected), IUPUI Library Faculty - Mentoring & Professional Development Committee
 
-2015-2017	Representative, University Library Budgetary Advisory Affairs Committee 
+2019	Lead (appointed), University Library Strategic Planning Working Group on Faculty Success
 
-2013-2015	Member, Faculty Affairs Committee, IUPUI Faculty Council
+2018-2019	Chair (elected), IUPUI Library Faculty
 
-2012-2014	Member, IUPUI Faculty Council
+2018-2019	Chair (elected), University Library Faculty Organization - Primary Peer Review Committee
 
-2013-2014	Secretary, University Library Faculty Organization
+2017-2018	Vice Chair/Chair Elect (elected), IUPUI Library Faculty
 
-2012-2013	Chair, Bylaws Committee, University Library Faculty Organization 
+2017-2018	Vice Chair/Chair Elect (elected), University Library Faculty Organization Primary Peer Review Committee
 
-2011-2012	Member, Bylaws Committee, University Library Faculty Organization
+2015-2017	Representative (elected), University Library Budgetary Advisory Affairs Committee 
 
-2009-2010	Member, IUPUI Staff Council
+2013-2015	Member (elected), Faculty Affairs Committee, IUPUI Faculty Council
+
+2012-2014	Member (elected), IUPUI Faculty Council
+
+2013-2014	Secretary (elected), University Library Faculty Organization
+
+2012-2013	Chair (elected), Bylaws Committee, University Library Faculty Organization 
+
+2011-2012	Member (elected), Bylaws Committee, University Library Faculty Organization
+
+2009-2010	Member (elected), IUPUI Staff Council
 
 2008-2009	Secretary/Treasurer, Association of Library and Information Science Students (ALISS), Indiana University – Indianapolis
 
 2005-2006	Student member, Curriculum Steering Committee, School of Library and Information Science, Indiana University – Bloomington
+
+&nbsp;  
+
+### National
+
+2016		Field Reviewer, Institute of Museum and Library Services
+
+2016		Ad-hoc Reviewer, National Institutes of Health
