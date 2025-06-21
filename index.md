@@ -129,7 +129,9 @@ Coordinated the research, outreach, and professional training activities of a di
 
 ### Scholarly Publications – Refereed
 
-**Coates, H. L.**, Goben, A., Briney, K. (In press). What if It Didn’t Happen: Data Management and Avoiding Research Misconduct. *Journal of eScience Librarianship.*
+Goben, A., **Coates, H. L.**, Briney, K. (2025). The Library is Not Enough: Building the Data Governance Community at Your Institution. In E. Bongiovanni, M. A. Gainey, C. Griego, and L. McKee, *ACRL Open Science Cookbook* (pp. 30-33). Association of College and Research Libraries. Available at https://www.ala.org/sites/default/files/2025-06/9798892553667.pdf.
+
+Coates, H. L., Goben, A., Briney, K. (2023). What if It Didn’t Happen: Data Management and Avoiding Research Misconduct. *Journal of eScience Librarianship*. https://doi.org/10.7191/jeslib.746
 
 Champieux, R. & **Coates, H. L.** (2022). Metrics for evaluating the impact of data sets. In A. Berez-Kroeker, B. McDonnell, E. Koller, and L. Collister (Eds.), *The Open Handbook of Linguistic Data Management and Archiving*. MIT Press Direct. [https://doi.org/10.7551/mitpress/12200.003.0016](https://doi.org/10.7551/mitpress/12200.003.0016)
 
@@ -180,6 +182,10 @@ Chabot, L., Bivens-Tatum, W., **Coates, H. L.**, Kern, M. K., Leonard, M., Palaz
 ## Presentations
 
 ### Refereed Presentations
+
+Dolan, L., Fridmanski, E., **Coates, H. L.**, Meanwell, E. (2025). Situating Research Data in Data Governance. Panel presentation at the Higher Education Data World Conference, Atlanta, GA. Available at https://vimeo.com/1078073943/515e49d761
+
+Coates, H. L. (2025). Cultivating a resilient research data stewardship community through sustained dialog. Presentation at the Research Data Access & Preservation Summit (virtual).
 
 Coates, H. L. (2023). Research Data Commons and Data Communities: Building bridges between institutional functions and informal communities. Presentation at the Midwest Data Librarian Symposium, Cincinnati, OH. Available at [https://osf.io/6wts7/](https://osf.io/6wts7/). 
 
@@ -244,6 +250,10 @@ Johnson, S. A., Lutgring, J., Burt, R., Murphy, R. R., Theiner-Schumacher, P., *
 &nbsp;  
 
 ### Invited Talks
+
+Ming, V., Raymond, A., **Coates, H.**, Tarkowski, A. (2025) Invited panelist for the Fourth Wave of Open Data Seminar: Data Commons for the Public Good (virtual). Recording available at [ADD LINK].
+
+Coates, H. L. (2024). Research data governance. Invited panel presentation at the Common Solutions Group meeting, May 16, 2024, Madison, WI.
 
 Coates, H. L. (2023). Defining and Measuring Research Impact in the Humanities. Invited presentation at the John Hope Franklin Center for Interdisciplinary and International Studies, Wednesdays at the Center Series (virtual). Recording available at [https://www.youtube.com/watch?v=AXtbsha9T5A](https://www.youtube.com/watch?v=AXtbsha9T5A). Slides available at [https://hdl.handle.net/1805/32277](https://hdl.handle.net/1805/32277).
 
