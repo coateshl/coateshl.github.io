@@ -7,6 +7,10 @@ hide_hero: true
 
 ### Scholarly Publications – Refereed
 
+Goben, A., **Coates, H. L.**, Briney, K. (2025). The Library is Not Enough: Building the Data Governance Community at Your Institution. In E. Bongiovanni, M. A. Gainey, C. Griego, and L. McKee, *ACRL Open Science Cookbook* (pp. 30-33). Association of College and Research Libraries. Available at https://www.ala.org/sites/default/files/2025-06/9798892553667.pdf. 
+
+**Coates, H. L.**, Goben, A., Briney, K. (2023). What if It Didn’t Happen: Data Management and Avoiding Research Misconduct. *Journal of eScience Librarianship*. https://doi.org/10.7191/jeslib.746
+
 **Coates, H. L.**, Goben, A., Briney, K. (In press). What if It Didn’t Happen: Data Management and Avoiding Research Misconduct. *Journal of eScience Librarianship.*
 
 Champieux, R. & **Coates, H. L.** (2022). Metrics for evaluating the impact of data sets. In A. Berez-Kroeker, B. McDonnell, E. Koller, and L. Collister (Eds.), *The Open Handbook of Linguistic Data Management and Archiving*. MIT Press Direct. https://doi.org/10.7551/mitpress/12200.003.0016
