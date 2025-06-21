@@ -2,6 +2,18 @@
 
 ### Professional
 
+2025  External reviewer - librarian application for Promotion and/or Tenure (1)
+
+2024	External reviewer - librarian application for Promotion and/or Tenure (3)
+
+2023-2025	Member, Research Data Access & Preservation (RDAP) Association - Education and Resources Committee
+
+2023	External reviewer - librarian application for Promotion and/or Tenure (1)
+
+2022	External reviewer - librarian application for Promotion and/or Tenure (1)
+
+2022	Peer Mentor, Journal of eScience Librarianship – RDAP 2021 Special Issue
+
 2021-2022	Guest Editor, Journal of eScience Librarianship – RDAP 2021 Special Issue
 
 2020-2021	Guest Editor, Journal of eScience Librarianship – RDAP 2020 Special Issue
@@ -43,6 +55,24 @@
 
 
 ### University
+
+2025-2026	Chair (elected), University Library Faculty Organization
+
+2025-2027	At-large Member (elected), IU Indianapolis Faculty Council - Promotion & Tenure Committee
+
+2024-2026	Co-chair (appointed), University Faculty Council - Research Affairs Committee
+
+2024 - present	IU Records Retention & Disposition Committee (member)
+
+2024 - 2026	Member (appointed), IU Indianapolis Faculty Council - Academic Affairs Committee
+
+2023-2024	Chair (elected), University Library Faculty Organization - Primary Peer Review Committee
+
+2023-2024	Member (appointed), University Library AI Interest Group
+
+2022-2023	Member, IUPUI LIFT Peer Mentoring Circles Co-Facilitator
+
+2022	Member, IUPUI University Library Research Information Management Librarian Search & Screen Committee
 
 2021-2022	Member (invited), IUPUI LIFT Mentoring Circles Advisory Group
 
