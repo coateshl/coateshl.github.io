@@ -2,6 +2,10 @@
 
 ### Refereed Presentations
 
+Dolan, L., Fridmanski, E., **Coates, H. L.**, Meanwell, E. (2025). Situating Research Data in Data Governance. Panel presentation at the Higher Education Data World Conference, Atlanta, GA. Available at https://vimeo.com/1078073943/515e49d761 
+
+Coates, H. L. (2025). Cultivating a resilient research data stewardship community through sustained dialog. Presentation at the Research Data Access & Preservation Summit (virtual). 
+
 Coates, H. L. (2023). Research Data Commons and Data Communities: Building bridges between institutional functions and informal communities. Presentation at the Midwest Data Librarian Symposium, Cincinnati, OH. Available at [https://osf.io/6wts7/](https://osf.io/6wts7/). 
 
 **Coates, H. L.**, Goben, A., & Briney, K. (2022). Shifting into data governance roles: Encounters of three data librarians. Presentation at the 2022 International Association for Social Science Information Service and Technology Conference (virtual). Available at [https://hdl.handle.net/1805/29331](https://hdl.handle.net/1805/29331). 
