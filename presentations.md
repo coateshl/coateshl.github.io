@@ -69,6 +69,10 @@ Johnson, S. A., Lutgring, J., Burt, R., Murphy, R. R., Theiner-Schumacher, P., *
 
 ### Invited Talks
 
+Ming, V., Raymond, A., **Coates, H.**, Tarkowski, A. (2025) Invited panelist for the Fourth Wave of Open Data Seminar: Data Commons for the Public Good (virtual). Recording available at [ADD LINK].
+
+Coates, H. L. (2024). Research data governance. Invited panel presentation at the Common Solutions Group meeting, May 16, 2024, Madison, WI. 
+
 Coates, H. L. (2023). Defining and Measuring Research Impact in the Humanities. Invited presentation at the John Hope Franklin Center for Interdisciplinary and International Studies, Wednesdays at the Center Series (virtual). Recording available at [https://www.youtube.com/watch?v=AXtbsha9T5A](https://www.youtube.com/watch?v=AXtbsha9T5A). Slides available at [https://hdl.handle.net/1805/32277](https://hdl.handle.net/1805/32277).
 
 Coates, H. L. (2022). Open Access is necessary but not sufficient to ensure research integrity. Invited Open Access Week presentation to the Texas Digital Library Research Integrity Working Group (virtual). Available at [https://hdl.handle.net/1805/30531](https://hdl.handle.net/1805/30531). 
