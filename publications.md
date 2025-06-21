@@ -4,8 +4,6 @@ Goben, A., **Coates, H. L.**, Briney, K. (2025). The Library is Not Enough: Buil
 
 **Coates, H. L.**, Goben, A., Briney, K. (2023). What if It Didn’t Happen: Data Management and Avoiding Research Misconduct. *Journal of eScience Librarianship*. https://doi.org/10.7191/jeslib.746
 
-**Coates, H. L.**, Goben, A., Briney, K. (In press). What if It Didn’t Happen: Data Management and Avoiding Research Misconduct. *Journal of eScience Librarianship.*
-
 Champieux, R. & **Coates, H. L.** (2022). Metrics for evaluating the impact of data sets. In A. Berez-Kroeker, B. McDonnell, E. Koller, and L. Collister (Eds.), *The Open Handbook of Linguistic Data Management and Archiving*. MIT Press Direct. https://doi.org/10.7551/mitpress/12200.003.0016
 
 Briney, K. A., **Coates, H.**, Goben, A. (2020) Foundational Practices of Research Data Management. *Research Ideas and Outcomes*, 6: e56508. https://doi.org/10.3897/rio.6.e56508
