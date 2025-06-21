@@ -1,10 +1,3 @@
----
-layout: page
-hide_hero: true
-
----
-
-
 ### Scholarly Publications – Refereed
 
 Goben, A., **Coates, H. L.**, Briney, K. (2025). The Library is Not Enough: Building the Data Governance Community at Your Institution. In E. Bongiovanni, M. A. Gainey, C. Griego, and L. McKee, *ACRL Open Science Cookbook* (pp. 30-33). Association of College and Research Libraries. Available at https://www.ala.org/sites/default/files/2025-06/9798892553667.pdf. 
